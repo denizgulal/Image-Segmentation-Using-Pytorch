@@ -251,17 +251,3 @@ for i in range(epochs):
 
   print(f"Epochs: {i+1} Train loss: {train_loss} Valid loss: {valid_loss}")
 
-
-
-"""# Task 9 : Inference"""
-
-
-
-
-
-"""# For updates about upcoming and current guided projects follow me on...
-
-Twitter : @parth_AI
-
-Linkedin : www.linkedin.com/in/pdhameliya
-"""
